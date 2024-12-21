@@ -32,6 +32,29 @@ Overall, this Zomato Analysis Dashboard offers a comprehensive view of the compa
 
 ## Zomato Power BI Dashboard
 
+### Key Metrics:
+- **Total Restaurants**: 8,652
+- **Total Countries**: 1
+- **Total Cities**: 43
+- **Average Rating**: 2.77
+- **Total no. of Cuisines**: 1,392
+- **Total Votes**: 1.2M
+
+### Restaurant Data Breakdown
+- **7.9% GT Count of RestaurantName by Has_Table_booking**: 14.75% of restaurants have table booking feature.
+- **8.9% GT Count of RestaurantName by Has_Online_delivery**: 22.04% of restaurants offer online delivery.
+- **Top 5 cities based on Cuisines**: Delhi (5.5K), Mumbai (1.1K), Bangalore (1.1K), Pune (0.8K), Chennai (0.4K)
+- **Count of RestaurantName by Buckets range from 0-800000**: Most cities have 0-500 restaurants, with a few having 500-800K restaurants.
+
+### Geographical Insights
+- The dashboard covers restaurant data from India.
+- The map shows the distribution of restaurants across different cities in India.
+
+### Temporal Insights
+- The "Count of RestaurantName by Year, Month and Quarter" chart shows the growth of restaurants over time, with a peak in 2018.
+
+Overall, this dashboard provides a comprehensive overview of Zomato's restaurant data in India, including key metrics, restaurant features, city-wise distribution, and temporal trends.
+
 ![Zomato_PowerBI](https://github.com/user-attachments/assets/a2ef1e6d-7ffb-4d56-8a4c-192b08dd41fc)
 
 ## Zomato SQL Query
